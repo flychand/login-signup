@@ -1,7 +1,7 @@
 
 Assingnment-1. 
-Note : I am more handy on nodejs, mongodb i have completed this assignment in node, mongodb only.
-I have working knowladge in sql as well.
+Note : I am more handy on nodejs, mongodb i have completed this assignment in nodejs, mongodb only.
+But I have working knowladge in sql as well.
 =====================================================================
        @chandan : chadnan.mca.pu@gmail.com
 =====================================================================
